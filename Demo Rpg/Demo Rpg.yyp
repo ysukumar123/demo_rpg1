@@ -34,10 +34,12 @@
   },
   "name":"Demo Rpg",
   "resources":[
+    {"id":{"name":"game_manager_object","path":"objects/game_manager_object/game_manager_object.yy",},},
     {"id":{"name":"obj_baby","path":"objects/obj_baby/obj_baby.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_baby","path":"sprites/spr_baby/spr_baby.yy",},},
     {"id":{"name":"spr_world","path":"sprites/spr_world/spr_world.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"tst_world","path":"tilesets/tst_world/tst_world.yy",},},
   ],
   "resourceType":"GMProject",
